@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/NutricionSalud/static/css/main.b9660a61.chunk.css",
+    "main.js": "/NutricionSalud/static/js/main.a03b2db8.chunk.js",
+    "main.js.map": "/NutricionSalud/static/js/main.a03b2db8.chunk.js.map",
+    "runtime-main.js": "/NutricionSalud/static/js/runtime-main.df1a441c.js",
+    "runtime-main.js.map": "/NutricionSalud/static/js/runtime-main.df1a441c.js.map",
+    "static/js/2.b11e54cd.chunk.js": "/NutricionSalud/static/js/2.b11e54cd.chunk.js",
+    "static/js/2.b11e54cd.chunk.js.map": "/NutricionSalud/static/js/2.b11e54cd.chunk.js.map",
+    "index.html": "/NutricionSalud/index.html",
+    "precache-manifest.e4d975baf4bc2de128a22e2394dc0fd1.js": "/NutricionSalud/precache-manifest.e4d975baf4bc2de128a22e2394dc0fd1.js",
+    "service-worker.js": "/NutricionSalud/service-worker.js",
+    "static/css/main.b9660a61.chunk.css.map": "/NutricionSalud/static/css/main.b9660a61.chunk.css.map",
+    "static/js/2.b11e54cd.chunk.js.LICENSE.txt": "/NutricionSalud/static/js/2.b11e54cd.chunk.js.LICENSE.txt",
+    "static/media/Empanadas.jpg": "/NutricionSalud/static/media/Empanadas.a58d9db1.jpg",
+    "static/media/alfajor.jpg": "/NutricionSalud/static/media/alfajor.75d46783.jpg",
+    "static/media/alfajores.jpg": "/NutricionSalud/static/media/alfajores.2f8cd6a1.jpg",
+    "static/media/bocaditoicon.png": "/NutricionSalud/static/media/bocaditoicon.6cae6aad.png",
+    "static/media/contactenos.jpg": "/NutricionSalud/static/media/contactenos.0e1414fb.jpg",
+    "static/media/empanada.jpg": "/NutricionSalud/static/media/empanada.fb7c82c5.jpg",
+    "static/media/empandaicon.png": "/NutricionSalud/static/media/empandaicon.7cc1e07c.png",
+    "static/media/keke.jpg": "/NutricionSalud/static/media/keke.e00d1f14.jpg",
+    "static/media/keke3.jpg": "/NutricionSalud/static/media/keke3.8cb685b6.jpg",
+    "static/media/kekeicon.png": "/NutricionSalud/static/media/kekeicon.176c086f.png",
+    "static/media/pastel.jpg": "/NutricionSalud/static/media/pastel.4d74952b.jpg",
+    "static/media/pastelicon.png": "/NutricionSalud/static/media/pastelicon.71ba6ae3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df1a441c.js",
+    "static/js/2.b11e54cd.chunk.js",
+    "static/css/main.b9660a61.chunk.css",
+    "static/js/main.a03b2db8.chunk.js"
+  ]
+}
