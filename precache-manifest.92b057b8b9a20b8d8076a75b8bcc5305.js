@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b3bcda73b38e8b8bbdc2274bf5814853",
+    "revision": "5fd4393539db54eb25d6f1d8d2539608",
     "url": "/NutricionSalud/index.html"
   },
   {
-    "revision": "972ab42e853f2b7d59af",
+    "revision": "344a996abc9065530e7c",
     "url": "/NutricionSalud/static/css/main.b9660a61.chunk.css"
   },
   {
-    "revision": "8d59f4b28622c9e707c8",
-    "url": "/NutricionSalud/static/js/2.b11e54cd.chunk.js"
+    "revision": "a00c9680a0d63c9870df",
+    "url": "/NutricionSalud/static/js/2.1a20552d.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/NutricionSalud/static/js/2.b11e54cd.chunk.js.LICENSE.txt"
+    "url": "/NutricionSalud/static/js/2.1a20552d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "972ab42e853f2b7d59af",
-    "url": "/NutricionSalud/static/js/main.0ccba4ea.chunk.js"
+    "revision": "344a996abc9065530e7c",
+    "url": "/NutricionSalud/static/js/main.b3030efc.chunk.js"
   },
   {
     "revision": "e734a3832b3153f362a5",
