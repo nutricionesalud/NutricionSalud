@@ -7,7 +7,7 @@ import {
   faCookieBite,
   faPhone,
 } from '@fortawesome/free-solid-svg-icons'
-import { BrowserRouter as Router, Switch } from 'react-router-dom'
+import { HashRouter as Router, Switch } from 'react-router-dom'
 import { Provider } from 'react-redux'
 import NavBar from './components/NavBar'
 import MainContainer from './components/MainContainer'
