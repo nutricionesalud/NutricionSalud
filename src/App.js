@@ -7,7 +7,7 @@ import {
   faCookieBite,
   faPhone,
 } from '@fortawesome/free-solid-svg-icons'
-import { HashRouter as Router, Switch } from 'react-router-dom'
+import { HashRouter as Router, Switch, Redirect } from 'react-router-dom'
 import { Provider } from 'react-redux'
 import NavBar from './components/NavBar'
 import MainContainer from './components/MainContainer'
@@ -40,7 +40,7 @@ const lista = [
   {
     name: 'Inicio',
     icon: faHome,
-    path: '/',
+    path: '/NutricionSalud',
     render: () => <Menu />,
   },
   {
@@ -82,9 +82,9 @@ function App() {
                   render={render}
                 />
               ))}
-              {/* <Route path="/*">
+              <Router path="/*">
                 <Redirect to="/" />
-              </Route> */}
+              </Router>
             </Switch>
           </StretchDiv>
           <Footer>
