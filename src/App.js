@@ -40,7 +40,7 @@ const lista = [
   {
     name: 'Inicio',
     icon: faHome,
-    path: '/NutricionSalud',
+    path: '/',
     render: () => <Menu />,
   },
   {
@@ -64,7 +64,7 @@ function App() {
     <Provider store={store}>
       <Normalize />
       <GlobalStyle />
-      <Router>
+      <Router basename={process.env.PUBLIC_URL}>
         <NavBar
           title="Productos N&S"
           lista={lista}
