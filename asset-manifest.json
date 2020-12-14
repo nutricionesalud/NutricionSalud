@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/NutricionSalud/static/css/main.b9660a61.chunk.css",
-    "main.js": "/NutricionSalud/static/js/main.b3030efc.chunk.js",
-    "main.js.map": "/NutricionSalud/static/js/main.b3030efc.chunk.js.map",
+    "main.js": "/NutricionSalud/static/js/main.598edc85.chunk.js",
+    "main.js.map": "/NutricionSalud/static/js/main.598edc85.chunk.js.map",
     "runtime-main.js": "/NutricionSalud/static/js/runtime-main.df1a441c.js",
     "runtime-main.js.map": "/NutricionSalud/static/js/runtime-main.df1a441c.js.map",
-    "static/js/2.1a20552d.chunk.js": "/NutricionSalud/static/js/2.1a20552d.chunk.js",
-    "static/js/2.1a20552d.chunk.js.map": "/NutricionSalud/static/js/2.1a20552d.chunk.js.map",
+    "static/js/2.a48df65c.chunk.js": "/NutricionSalud/static/js/2.a48df65c.chunk.js",
+    "static/js/2.a48df65c.chunk.js.map": "/NutricionSalud/static/js/2.a48df65c.chunk.js.map",
     "index.html": "/NutricionSalud/index.html",
-    "precache-manifest.92b057b8b9a20b8d8076a75b8bcc5305.js": "/NutricionSalud/precache-manifest.92b057b8b9a20b8d8076a75b8bcc5305.js",
+    "precache-manifest.2b549fd974bc08eb8f445b1c642eb099.js": "/NutricionSalud/precache-manifest.2b549fd974bc08eb8f445b1c642eb099.js",
     "service-worker.js": "/NutricionSalud/service-worker.js",
     "static/css/main.b9660a61.chunk.css.map": "/NutricionSalud/static/css/main.b9660a61.chunk.css.map",
-    "static/js/2.1a20552d.chunk.js.LICENSE.txt": "/NutricionSalud/static/js/2.1a20552d.chunk.js.LICENSE.txt",
+    "static/js/2.a48df65c.chunk.js.LICENSE.txt": "/NutricionSalud/static/js/2.a48df65c.chunk.js.LICENSE.txt",
     "static/media/Empanadas.jpg": "/NutricionSalud/static/media/Empanadas.a58d9db1.jpg",
     "static/media/alfajor.jpg": "/NutricionSalud/static/media/alfajor.75d46783.jpg",
     "static/media/alfajores.jpg": "/NutricionSalud/static/media/alfajores.2f8cd6a1.jpg",
@@ -27,8 +27,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.df1a441c.js",
-    "static/js/2.1a20552d.chunk.js",
+    "static/js/2.a48df65c.chunk.js",
     "static/css/main.b9660a61.chunk.css",
-    "static/js/main.b3030efc.chunk.js"
+    "static/js/main.598edc85.chunk.js"
   ]
 }
